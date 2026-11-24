@@ -8,13 +8,13 @@
 | Course | Introduction to Particle Physics, Master's level |
 | Team | 4–5 students |
 | Maximum request | EUR 15,000 per team; confirm allocation before issue |
-| Funding character | [Actual purchasing allocation / simulated application budget / mixed; specify] |
-| Number of awards | [Enter] |
-| Proposal deadline | [Date and local time] |
-| Project period | [Start–end; number of weeks] |
-| Commissioning review | [Date] |
-| Reports and presentation | [Dates] |
-| Submission | [Repository/assignment URL and required release or commit] |
+| Funding character | Simulated application budget |
+| Number of awards | max 3 |
+| Proposal deadline | 02.12.2026 |
+| Project period | 6 weeks |
+| Commissioning review | 25.01.2027 |
+| Reports and presentation | 26.01.2027 |
+| Submission | github repository |
 
 ## 1. Purpose and scope
 
